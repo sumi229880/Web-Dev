@@ -1,4 +1,4 @@
-# *******New York Restaurants Inspection*********
+# *******New York Restaurants Inspection Analysis*********
 # Food tastes better when you eat with it's quality at BEST!!
 
 [![](https://cldup.com/dTxpPi9lDf.thumb.png)](http://sumeetusturge.com)
@@ -18,25 +18,24 @@ This dataset provides restaurant inspections, violations, grades and adjudicatio
 
 #### ANALYSIS # 1
 
-The cuisine of New York City comprises many cuisines belonging to various ethnic groups that have entered the United States through the city.Almost all ethnic cuisines are well represented in New York City, both within and outside of the various ethnic neighborhoods.New York City was also the founding city of New York Restaurant Week which has spread around the world due to the discounted prices that such a deal offers.
+* The cuisine of New York City comprises many cuisines belonging to various ethnic groups that have entered the United States through the city.Almost all ethnic cuisines are well represented in New York City, both within and outside of the various ethnic neighborhoods.New York City was also the founding city of New York Restaurant Week which has spread around the world due to the discounted prices that such a deal offers.
+* New York City is called as hub for bussiness and there are thousands of people  entering and leaving the city. With so much of happening in the city, it is highly diversified in its own way and we get wide range of cuisine in the 5 Boroughs of the city.
+* What if some one wants to try Italian or Mexican food? Well this analysis is all about finding out the where do we find cuisine which is best in its way and has highest rating when it comes to cleanliness and its quality for food and hygine. Below are the analysis results that I found out. I am sure now you will know where to find the cuisine that you love the most in this city of dreams. 
 
+>Looking at the stats now I exactly know where to find my love for Indian cuisine in NYC without givnig a second thought on the quality. Hope you have found your favourite cuisine. 
 
-* [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](http://breakdance.io) - HTML to Markdown converter
-* [jQuery] - duh
+#### ANALYSIS # 2
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+* The cuisine of New York City comprises many cuisines belonging to various ethnic groups that have entered the United States through the city.Almost all ethnic cuisines are well represented in New York City, both within and outside of the various ethnic neighborhoods.New York City was also the founding city of New York Restaurant Week which has spread around the world due to the discounted prices that such a deal offers.
+* New York City is called as hub for bussiness and there are thousands of people  entering and leaving the city. With so much of happening in the city, it is highly diversified in its own way and we get wide range of cuisine in the 5 Boroughs of the city.
+>Looking at the stats now I exactly know where to find my love for Indian cuisine in NYC without givnig a second thought on the quality. Hope you have found your favourite cuisine.
 
-### Installation
+#### ANALYSIS # 3
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
+* The cuisine of New York City comprises many cuisines belonging to various ethnic groups that have entered the United States through the city.Almost all ethnic cuisines are well represented in New York City, both within and outside of the various ethnic neighborhoods.New York City was also the founding city of New York Restaurant Week which has spread around the world due to the discounted prices that such a deal offers.
+* New York City is called as hub for bussiness and there are thousands of people  entering and leaving the city. With so much of happening in the city, it is highly diversified in its own way and we get wide range of cuisine in the 5 Boroughs of the city.
+>Looking at the stats now I exactly know where to find my love for Indian cuisine in NYC without givnig a second thought on the quality. Hope you have found your favourite cuisine.
+
 
 Install the dependencies and devDependencies and start the server.
 
@@ -139,29 +138,4 @@ License
 MIT
 
 
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
