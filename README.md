@@ -25,6 +25,14 @@ The key to API is stored as an environment variable and then downloaded the data
 
 ![ana-1 1 queens](https://cloud.githubusercontent.com/assets/25045818/25300449/a8d27180-26dd-11e7-8634-048f48585d83.JPG)
 
+![ana-1 1 man](https://cloud.githubusercontent.com/assets/25045818/25300459/e2964fa4-26dd-11e7-80ee-64df896fb5f7.JPG)
+
+![ana-1 1 bronx](https://cloud.githubusercontent.com/assets/25045818/25300460/e296bf02-26dd-11e7-9afd-1ba16156979b.JPG)
+
+![ana-1 1 staten](https://cloud.githubusercontent.com/assets/25045818/25300462/e29843cc-26dd-11e7-90f9-5d87c03122ad.JPG)
+
+![ana-1 1 brook](https://cloud.githubusercontent.com/assets/25045818/25300461/e297c78a-26dd-11e7-85ff-2ab7af93063f.JPG)
+
 >Looking at the stats now I exactly know where to find my love for Indian cuisine in NYC without givnig a second thought on the quality. Hope you have found your favourite cuisine. 
 
 #### ANALYSIS # 2
