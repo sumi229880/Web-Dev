@@ -35,6 +35,10 @@ The key to API is stored as an environment variable and then downloaded the data
 ###### We can see that there are 18 Korean restaurants in Brooklyn having 19.03 ratings.
 ![ana-1 1 brook](https://cloud.githubusercontent.com/assets/25045818/25300461/e297c78a-26dd-11e7-85ff-2ab7af93063f.JPG)
 
+```sh
+HOVER-OVER THE GRAPHS IN PYTHON NOTEBOOK TO GET INTERACTIVE GRAPHS
+```
+
 >Looking at the stats now I exactly know where to find my love for Indian cuisine in NYC without givnig a second thought on the quality. Hope you have found your favourite cuisine. We can clearly say that we can find out American cusinie all over NYC for obvious reasons.
 
 #### ANALYSIS # 2
@@ -55,6 +59,10 @@ The key to API is stored as an environment variable and then downloaded the data
 ###### We can see that Richmond Ave has many restaurants but Amboy Rd is having high hygene value in Staten Island
 ![ana-4 2 staten](https://cloud.githubusercontent.com/assets/25045818/25300477/3e0411fa-26de-11e7-9c02-21439a77f71c.JPG)
 
+```sh
+HOVER-OVER THE GRAPHS IN PYTHON NOTEBOOK TO GET INTERACTIVE GRAPHS
+```
+
 >Clearly we can see that, there are about 25000 modes of eatable in NYC and Manhattan having the most of it. The color variation gives you how hygine are those restaurants dark red being most hygenic. 
 
 #### ANALYSIS # 3
@@ -66,6 +74,10 @@ The key to API is stored as an environment variable and then downloaded the data
 ![ana-2 1](https://cloud.githubusercontent.com/assets/25045818/25300481/5dc81d38-26de-11e7-89bb-a35ee282a8ee.JPG)
 ###### Comparison with number of critical and non critical inspection results recieved by each borough. Also showing in tabular format.
 ![ana-2 2](https://cloud.githubusercontent.com/assets/25045818/25300480/5dc7f79a-26de-11e7-8304-6c046c4cd108.JPG)
+
+```sh
+HOVER-OVER THE GRAPHS IN PYTHON NOTEBOOK TO GET INTERACTIVE GRAPHS
+```
 
 >As we can see that most of the restaurants get critical remark for usage of stored cold food rather than using fresh food. And some violations like Food not protected from potential source of contamination during storage, preparation, transportation, display or service.
 Also we can see from the graph that Manhattan being at the top to get critical reviews about the food and Staten Island having the least, may be beacaue it has less number of mode of eatable compared to other boroughs.
