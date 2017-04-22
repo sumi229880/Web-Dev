@@ -23,6 +23,8 @@ The key to API is stored as an environment variable and then downloaded the data
 * New York City is called as hub for bussiness and there are thousands of people  entering and leaving the city. With so much of happening in the city, it is highly diversified in its own way and we get wide range of cuisine in the 5 Boroughs of the city.
 * What if some one wants to try Italian or Mexican food? Well this analysis is all about finding out the where do we find cuisine which is best in its way and has highest rating when it comes to cleanliness and its quality for food and hygine. Below are the analysis results that I found out. I am sure now you will know where to find the cuisine that you love the most in this city of dreams. 
 
+![ana-1 1 queens](https://cloud.githubusercontent.com/assets/25045818/25300449/a8d27180-26dd-11e7-8634-048f48585d83.JPG)
+
 >Looking at the stats now I exactly know where to find my love for Indian cuisine in NYC without givnig a second thought on the quality. Hope you have found your favourite cuisine. 
 
 #### ANALYSIS # 2
